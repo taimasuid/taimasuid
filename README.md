@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taima</h1>
-<h3 align="center">A passionate developer & entrepreneur</h3>
+<h3 align="center">A passionate developer & entrepreneur caught in a world between design & development</h3>
 
 - 🌱 I’m currently learning about **Machine Learning & Unity3D**
 
